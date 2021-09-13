@@ -1,0 +1,11 @@
+The list of websites which crawl the data from are:
+    1 - https://www.bbc.com/news/business/market-data
+    2 - https://www.ftserussell.com/
+    3 - https://www.newsnow.co.uk/h/Business+&+Finance/Stock+Market+(UK)
+    4 - https://www.reuters.com/?edition-redirect=uk
+    5 - https://www.theguardian.com/business/stock-markets
+    6 - https://www.independent.co.uk/news/business/sharewatch
+    7 - https://www.google.com/finance/
+    8 - https://www.ft.com/markets
+    9 - https://www.borsaitaliana.it/homepage/homepage.htm
+    10 - https://www.londonstockexchange.com/

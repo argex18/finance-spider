@@ -1,0 +1,35 @@
+data = {
+	"Markets": [
+		{
+			"market": str,
+			"link": str,
+			"values": {
+				"percentual_variation": str,
+				"current_value": str,
+				"absolute_variation": str
+			} 
+		}
+	],
+	"Currencies": [
+		{
+			"market": str,
+			"link": str,
+			"values": {
+				"percentual_variation": str,
+				"current_value": str,
+				"absolute_variation": str
+			}
+		}
+	],
+	"Commodities": [
+		{
+			"market": str,
+			"link": str,
+			"values": {
+				"percentual_variation": str,
+				"current_value": str,
+				"absolute_variation": str
+			}
+		}
+	]
+}

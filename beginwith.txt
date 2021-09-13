@@ -1,0 +1,28 @@
+What do i want to do?
+    - I want to create a series of classes (10), each one representing an ordered dataset for financial data
+    collected on the web.
+    - The data will be collected from a list of British finance websites (10).
+    - Each class should at least have:
+        ==== one method for getting the data (by basing on the most recent one).
+        ==== one method to parse and put them in a more ordered structure (like a JSON file).
+        ==== one method to upload them to a MongoDB online database.
+
+The MongoDB database management should be separate from this automation scripts in order to avoid
+confusion or mess with too many scripts in the same main project.
+    - I think to put it in a separate folder or even a completely different main dir.
+
+The project should also manage the download/upload of the data to/from a server.
+Regarding this, the presence or less of a server is optional.
+    - The app MUST use the Amazon Cloud Service: AWS. By using it, the user can choose if
+    to use a server or not (serverless application).
+
+Updating: 2021-08-13
+
+    - I decided to use Scrapy Items to order my data once scraped.
+    - The basic structure of a field should be this:
+        - region: str = the region where the market is located.
+        - market: str = the market name.
+        - sign: char = the market sign (+/-).
+        - values: dict = {
+            = the values of the market with each one containing the respective key.
+        }.

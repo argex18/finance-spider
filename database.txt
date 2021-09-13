@@ -1,0 +1,24 @@
+LOCAL: {
+	LOCAL_CONNECTION_URI = mongodb://127.0.0.1:27017
+	LOCAL_RUNNING_HOST = localhost
+	LOCAL_RUNNING_PORT = 27017 (default)
+}
+
+REMOTE: {
+	REMOTE_EC2_INSTANCE_PUBLIC_IPV4_ADDRESS = 18.218.13.2
+	REMOTE_EC2_INSTANCE_ID = i-009aeb9f8451ab027
+	REMOTE_EC2_INSTANCE_PUBLIC_IPV4_DNS = ec2-18-218-13-2.us-east-2.compute.amazonaws.com
+	REMOTE_EC2_INSTANCE_AMI_USERNAME = ubuntu
+	PRIVATE_KEY_PATH = ./financespider_ssh.pem
+	REMOTE_EC2_INSTANCE_PUBLIC_RSA_KEY = [Optional]
+	
+}
+
+SSH_COMMAND: ssh -i /path/my-key-pair.pem my-instance-user-name@my-instance-public-dns-name
+
+REMOTE_DB_ADMIN_CREDENTIALS: {
+	user = admin
+	password = claytondb1709
+}
+
+REMOTE_DB_CONNECTION_COMMAND: mongo -u user -p user_password <your_server_ip>/<db_name>

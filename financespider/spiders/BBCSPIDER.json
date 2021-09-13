@@ -1,0 +1,288 @@
+[
+{
+     "markets": [
+          {
+               "market": "FTSE100London",
+               "link": "/news/topics/c9qdqqkgz27t/ftse-100",
+               "values": [
+                    "-0.31%",
+                    "7158.63",
+                    "-22.48"
+               ]
+          },
+          {
+               "market": "FTSE250London",
+               "link": "/news/topics/cjl3llgk4k2t/ftse-250",
+               "values": [
+                    "+0.40%",
+                    "23789.16",
+                    "+95.63"
+               ]
+          },
+          {
+               "market": "AEXAmsterdam",
+               "link": "/news/topics/clyeyy6q0g4t/aex",
+               "values": [
+                    "+0.15%",
+                    "771.97",
+                    "+1.18"
+               ]
+          },
+          {
+               "market": "Cac40Paris",
+               "link": "/news/topics/cwjzjjz559yt/cac-40",
+               "values": [
+                    "-0.39%",
+                    "6792.93",
+                    "-26.91"
+               ]
+          },
+          {
+               "market": "DAXFrankfurt",
+               "link": "/news/topics/ckwlwwg6507t/dax",
+               "values": [
+                    "-0.03%",
+                    "15916.67",
+                    "-5.28"
+               ]
+          },
+          {
+               "market": "EuroStoxx50PanEuropean",
+               "link": "/news/topics/clyeyy6464qt/eurostoxx-50",
+               "values": [
+                    "-0.16%",
+                    "4189.65",
+                    "-6.75"
+               ]
+          },
+          {
+               "market": "IBEX35Madrid",
+               "link": "/news/topics/c34l44l8d48t/ibex-35",
+               "values": [
+                    "+0.36%",
+                    "8897.20",
+                    "+31.50"
+               ]
+          },
+          {
+               "market": "DowJonesNewYork",
+               "link": "/news/topics/clyeyy8851qt/djia",
+               "values": [
+                    "-0.79%",
+                    "35343.28",
+                    "-282.12"
+               ]
+          },
+          {
+               "market": "NasdaqNewYork",
+               "link": "/news/topics/c08k88ey6d5t/nasdaq",
+               "values": [
+                    "-0.93%",
+                    "14656.18",
+                    "-137.58"
+               ]
+          },
+          {
+               "market": "S&P500Chicago",
+               "link": "/news/topics/c4dldd02yp3t/s-p-500",
+               "values": [
+                    "-0.71%",
+                    "4448.08",
+                    "-31.63"
+               ]
+          },
+          {
+               "market": "BSESensexBombay",
+               "link": "/news/topics/cpglgg6zyd0t/bse-sensex",
+               "values": [
+                    "-0.29%",
+                    "55629.49",
+                    "-162.78"
+               ]
+          },
+          {
+               "market": "HangSengHongKong",
+               "link": "/news/topics/cq75774n157t/hang-seng",
+               "values": [
+                    "+0.47%",
+                    "25867.01",
+                    "+121.14"
+               ]
+          },
+          {
+               "market": "Nikkei225Tokyo",
+               "link": "/news/topics/c55p555ng9gt/nikkei-225",
+               "values": [
+                    "+0.59%",
+                    "27585.91",
+                    "+161.44"
+               ]
+          }
+     ],
+     "currencies": [
+          {
+               "market": "/USD",
+               "link": "/news/topics/cx250jmk4e7t/pound-sterling-gbp#currency=usd",
+               "values": [
+                    "+0.19%",
+                    "1.3765",
+                    "+0.0026"
+               ]
+          },
+          {
+               "market": "/EUR",
+               "link": "/news/topics/cx250jmk4e7t/pound-sterling-gbp#currency=eur",
+               "values": [
+                    "+0.10%",
+                    "1.1743",
+                    "+0.0012"
+               ]
+          },
+          {
+               "market": "/JPY",
+               "link": "/news/topics/cx250jmk4e7t/pound-sterling-gbp#currency=jpy",
+               "values": [
+                    "+0.39%",
+                    "151.0985",
+                    "+0.5935"
+               ]
+          },
+          {
+               "market": "/GBP",
+               "link": "/news/topics/cljevy2yz5lt/us-dollar-usd#currency=gbp",
+               "values": [
+                    "-0.18%",
+                    "0.7265",
+                    "-0.0013"
+               ]
+          },
+          {
+               "market": "/EUR",
+               "link": "/news/topics/cljevy2yz5lt/us-dollar-usd#currency=eur",
+               "values": [
+                    "-0.09%",
+                    "0.8531",
+                    "-0.0008"
+               ]
+          },
+          {
+               "market": "/JPY",
+               "link": "/news/topics/cljevy2yz5lt/us-dollar-usd#currency=jpy",
+               "values": [
+                    "+0.21%",
+                    "109.7695",
+                    "+0.2265"
+               ]
+          },
+          {
+               "market": "/GBP",
+               "link": "/news/topics/ce2gz75e8g0t/euro-eur#currency=gbp",
+               "values": [
+                    "-0.06%",
+                    "0.8516",
+                    "-0.0005"
+               ]
+          },
+          {
+               "market": "/USD",
+               "link": "/news/topics/ce2gz75e8g0t/euro-eur#currency=usd",
+               "values": [
+                    "+0.11%",
+                    "1.1723",
+                    "+0.0013"
+               ]
+          },
+          {
+               "market": "/JPY",
+               "link": "/news/topics/ce2gz75e8g0t/euro-eur#currency=jpy",
+               "values": [
+                    "+0.31%",
+                    "128.6650",
+                    "+0.4000"
+               ]
+          },
+          {
+               "market": "/GBP",
+               "link": "/news/topics/cleld6gp05et/japanese-yen-jpy#currency=gbp",
+               "values": [
+                    "-0.06%",
+                    "0.0066",
+                    "-0.0000"
+               ]
+          },
+          {
+               "market": "/USD",
+               "link": "/news/topics/cleld6gp05et/japanese-yen-jpy#currency=usd",
+               "values": [
+                    "-0.18%",
+                    "0.0091",
+                    "-0.0000"
+               ]
+          },
+          {
+               "market": "/EUR",
+               "link": "/news/topics/cleld6gp05et/japanese-yen-jpy#currency=eur",
+               "values": [
+                    "-0.26%",
+                    "0.0078",
+                    "-0.0000"
+               ]
+          }
+     ],
+     "commodities": [
+          {
+               "market": "BrentCrudeOilFutures",
+               "link": "/news/topics/cmjpj223708t/oil#commodity=brent",
+               "values": [
+                    "+1.07%",
+                    "69.77",
+                    "+0.74"
+               ]
+          },
+          {
+               "market": "WTICrudeOilFutures",
+               "link": "/news/topics/cmjpj223708t/oil#commodity=wti",
+               "values": [
+                    "+0.89%",
+                    "66.93",
+                    "+0.59"
+               ]
+          },
+          {
+               "market": "Gold(ForexIndexamfix)",
+               "link": "/news/topics/cwjzj55q2p3t/gold#commodity=goldam",
+               "values": [
+                    "",
+                    "",
+                    "",
+                    "1794.05",
+                    "",
+                    "",
+                    ""
+               ]
+          },
+          {
+               "market": "Gold(ForexIndexpmfix)",
+               "link": "/news/topics/cwjzj55q2p3t/gold#commodity=goldpm",
+               "values": [
+                    "",
+                    "",
+                    "",
+                    "1789.45",
+                    "",
+                    "",
+                    ""
+               ]
+          },
+          {
+               "market": "NaturalGas(UKNaturalGasFutures)",
+               "link": "/news/topics/cxwdwz5d8gxt/natural-gas#commodity=henryhubfutures",
+               "values": [
+                    "+0.81%",
+                    "117.59",
+                    "+0.94"
+               ]
+          }
+     ]
+}
+]
